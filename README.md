@@ -3,7 +3,7 @@ Simple manual image captioning for SD training that uses no dependency - just a 
 
 All done in html file, nothing to install
 
-When you run it an pick your folder the javascript will ask you two allow two things
+When you run it and pick your folder the javascript will ask you two things to allow
 
 <img width="445" height="125" alt="image" src="https://github.com/user-attachments/assets/db2612cc-798a-473d-bfad-5add9641c47b" />
 
