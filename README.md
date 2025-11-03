@@ -13,6 +13,7 @@ You obviously need to allow it, this allows the java script read and write to ph
 
 Features
 
-- extracts sd prompt from png files if it exist
+- saves/reads txt files where the images are
+- extracts stable diffusion prompt from png files if it exist (like Forge or Automatic1111 ads to generated png)
 - search/replace
 - and few other things
